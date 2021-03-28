@@ -1,0 +1,8 @@
+<Project Version="2" Name="daghb-enev" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\enev-evenes.xml</Package>
+	</Packages>
+</Project>
+
