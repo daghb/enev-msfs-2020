@@ -1,0 +1,40 @@
+{
+  "validation": {
+    "package_path": "D:\\Dev\\github\\enev-msfs-2020\\Packages\\enev-evenes",
+    "validation_time": "Thu Apr  1 19:00:39 2021",
+    "validation_msecs": 32,
+    "validation_result": "failed"
+  },
+  "meta": {
+    "valid": true,
+    "error_messages": [],
+    "warning_messages": []
+  },
+  "manifest": {
+    "valid": false,
+    "package_title": "",
+    "package_content_type": "",
+    "package_version": "",
+    "package_minimum_game_version": "",
+    "error_messages": [
+      "Missing or invalid Manifest file 'D:\\Dev\\github\\enev-msfs-2020\\Packages\\enev-evenes\\manifest.json'"
+    ],
+    "warning_messages": []
+  },
+  "layout": {
+    "valid": false,
+    "num_directories": 0,
+    "num_files": 0,
+    "invalid_paths": [],
+    "missing_directories": [],
+    "missing_files": [],
+    "wrong_size_files": [],
+    "over_max_size_files": [],
+    "duplicated_paths": [],
+    "mismatched_paths": [],
+    "error_messages": [
+      "Missing or invalid Layout file 'D:\\Dev\\github\\enev-msfs-2020\\Packages\\enev-evenes\\layout.json'"
+    ],
+    "warning_messages": []
+  }
+}
