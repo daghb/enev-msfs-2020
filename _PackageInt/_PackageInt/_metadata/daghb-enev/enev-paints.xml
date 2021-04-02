@@ -1,0 +1,42 @@
+<Metadata Version="1">
+	<Entry Path="textures\gate-number-24.png">
+		<![CDATA[0101]]>
+	</Entry>
+	<Entry Path="textures\gate-number-30.png">
+		<![CDATA[0101]]>
+	</Entry>
+	<Entry Path="textures\rwy-ahead.png">
+		<![CDATA[0101]]>
+	</Entry>
+	<Entry Path="textures\gate-number-23.png">
+		<![CDATA[0101]]>
+	</Entry>
+	<Entry Path="textures\gate-number-29.png">
+		<![CDATA[0101]]>
+	</Entry>
+	<Entry Path="textures\gate-number-27.png">
+		<![CDATA[0101]]>
+	</Entry>
+	<Entry Path="textures\gate-number-26B.png">
+		<![CDATA[0101]]>
+	</Entry>
+	<Entry Path="textures\gate-number-26.png">
+		<![CDATA[0101]]>
+	</Entry>
+	<Entry Path="textures\gate-number-22.png">
+		<![CDATA[0101]]>
+	</Entry>
+	<Entry Path="textures\gate-number-25.png">
+		<![CDATA[0101]]>
+	</Entry>
+	<Entry Path="textures\gate-number-28.png">
+		<![CDATA[0101]]>
+	</Entry>
+	<Entry Path="textures\gate-number-21.png">
+		<![CDATA[0101]]>
+	</Entry>
+	<NamedEntry Name="_CommandVersions">
+		<![CDATA[0D000000244A472B55DBE5870100000026AFFBBB02902C9E0100000048BFE2FDDA5C0E8C010000004A5A5E6D8D17C795010000004E90274C228155A6010000008C5C8C97A554CC02010000009055A950C553D99B0100000092B015C09218108201000000B229E2E358DFFB7701000000EAF0125C3B9424ED02000000F1716DC4B3E931D101000000F86A75A7E542A0A301000000FCA00C864AD4329001000000A800000000000000]]>
+	</NamedEntry>
+</Metadata>
+

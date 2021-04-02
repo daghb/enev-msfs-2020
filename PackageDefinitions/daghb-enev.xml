@@ -1,4 +1,4 @@
-<AssetPackage Name="daghb-enev-evenes" Version="0.1.101">
+<AssetPackage Name="daghb-enev" Version="0.1.101">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>ENEV Harstad-Narvik Evenes</Title>
@@ -15,7 +15,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\daghb-enev\ContentInfo</AssetDir>
+			<AssetDir>PackageDefinitions\daghb-enev\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\daghb-enev\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="daghb-enev">
@@ -26,5 +26,14 @@
 			<AssetDir>PackageSources\data\</AssetDir>
 			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="enev-paints">
+			<Type>MaterialLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\materials</AssetDir>
+			<OutputDir>MaterialLibs\daghb-enev\</OutputDir>
+		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
+
