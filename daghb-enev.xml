@@ -2,7 +2,6 @@
 	<OutputDirectory>.</OutputDirectory>
 	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
 	<Packages>
-		<Package>PackageDefinitions\enev-evenes.xml</Package>
+		<Package>PackageDefinitions\daghb-enev.xml</Package>
 	</Packages>
 </Project>
-

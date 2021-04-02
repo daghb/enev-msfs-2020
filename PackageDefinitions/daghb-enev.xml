@@ -1,0 +1,30 @@
+<AssetPackage Name="daghb-enev-evenes" Version="0.1.101">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>ENEV Harstad-Narvik Evenes</Title>
+		<Manufacturer/>
+		<Creator>daghb</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\daghb-enev\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\daghb-enev\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="daghb-enev">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\data\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
