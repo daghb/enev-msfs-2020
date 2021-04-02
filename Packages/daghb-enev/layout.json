@@ -7,8 +7,8 @@
     },
     {
       "path": "MaterialLibs/daghb-enev/Library.xml",
-      "size": 10649,
-      "date": 132618347307629330
+      "size": 11530,
+      "date": 132618370128770781
     },
     {
       "path": "MaterialLibs/daghb-enev/textures/GATE-NUMBER-21.PNG.DDS",
@@ -176,6 +176,21 @@
       "date": 132618347321458322
     },
     {
+      "path": "MaterialLibs/daghb-enev/textures/RED-PLATE.PNG.DDS",
+      "size": 5592580,
+      "date": 132618370134737395
+    },
+    {
+      "path": "MaterialLibs/daghb-enev/textures/red-plate.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132618365618831310
+    },
+    {
+      "path": "MaterialLibs/daghb-enev/textures/RED-PLATE.PNG.DDS.json",
+      "size": 227,
+      "date": 132618370134637373
+    },
+    {
       "path": "MaterialLibs/daghb-enev/textures/RWY-AHEAD.PNG.DDS",
       "size": 1466164,
       "date": 132618347310956594
@@ -192,13 +207,13 @@
     },
     {
       "path": "scenery/AIRPORT.BGL",
-      "size": 959,
-      "date": 132618347307139411
+      "size": 1243,
+      "date": 132618370128290607
     },
     {
       "path": "scenery/enev-airport.bgl",
-      "size": 39053,
-      "date": 132618347307009237
+      "size": 40433,
+      "date": 132618370128170685
     }
   ]
 }
